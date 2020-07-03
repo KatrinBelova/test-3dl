@@ -1,0 +1,258 @@
+[
+    {
+        "id": 0,
+        "name": "Рубашка на пуговицах",
+        "picture": "item1.png",
+        "category": "плащи",
+        "price": {
+            "currency": "$",
+            "sum": "100"
+        },
+        "available": 2,
+        "color": "Черный",
+        "material": "Шерсть 100%",
+        "care": "Сухая чистка",
+        "code": "HHB73100",
+        "brand": {
+            "en": "Yohji Yamamoto",
+            "ua": "Йоджи Ямамото"
+        },
+        "description": "Классический воротник, застежка на пуговицах спереди, нагрудный карман, удлиненная модель, прошитые панели, длинные рукава и манжеты на пуговицах.",
+        "model": {
+            "height": "1.88",
+            "size": "2"
+        },
+        "details": [
+            "Yohji Yamamoto широкие укороченные брюки",
+            "Converse кроссовки 'One Star'"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "available": false
+            },
+            {
+                "size": "M",
+                "available": true
+            },
+            {
+                "size": "L",
+                "available": true
+            }
+        ],
+        "created_at": "30-06-2020",
+        "popular": true
+    },
+    {
+        "id": 1,
+        "name": "Рубашка с принтом",
+        "picture": "item2.png",
+        "category": "рубашки",
+        "price": {
+            "currency": "$",
+            "sum": "170"
+        },
+        "available": 2,
+        "color": "Черный",
+        "material": "Шерсть 100%",
+        "care": "Сухая чистка",
+        "code": "HHB73100",
+        "brand": {
+            "en": "Yohji Yamamoto",
+            "ua": "Йоджи Ямамото"
+        },
+        "description": "Классический воротник, застежка на пуговицах спереди, нагрудный карман, удлиненная модель, прошитые панели, длинные рукава и манжеты на пуговицах.",
+        "model": {
+            "height": "1.88",
+            "size": "2"
+        },
+        "details": [
+            "Yohji Yamamoto широкие укороченные брюки",
+            "Converse кроссовки 'One Star'"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "available": false
+            },
+            {
+                "size": "M",
+                "available": true
+            },
+            {
+                "size": "L",
+                "available": true
+            }
+        ],
+        "created_at": "30-06-2020"
+    },
+    {
+        "id": 2,
+        "name": "Кроссовки «Kaiwa» Y3",
+        "picture": "item3.png",
+        "category": "oбувь",
+        "price": {
+            "currency": "$",
+            "sum": "320"
+        },
+        "available": 2,
+        "color": "Черный",
+        "material": "Шерсть 100%",
+        "care": "Сухая чистка",
+        "code": "HHB73100",
+        "brand": {
+            "en": "Yohji Yamamoto",
+            "ua": "Йоджи Ямамото"
+        },
+        "description": "Классический воротник, застежка на пуговицах спереди, нагрудный карман, удлиненная модель, прошитые панели, длинные рукава и манжеты на пуговицах.",
+        "model": {
+            "height": "1.88",
+            "size": "2"
+        },
+        "details": [
+            "Yohji Yamamoto широкие укороченные брюки",
+            "Converse кроссовки 'One Star'"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "available": false
+            },
+            {
+                "size": "M",
+                "available": true
+            },
+            {
+                "size": "L",
+                "available": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Рубашка на пуговицах",
+        "picture": "item1.png",
+        "category": "рубашки",
+        "price": {
+            "currency": "$",
+            "sum": "320"
+        },
+        "available": 2,
+        "color": "Черный",
+        "material": "Шерсть 100%",
+        "care": "Сухая чистка",
+        "code": "HHB73100",
+        "brand": {
+            "en": "Yohji Yamamoto",
+            "ua": "Йоджи Ямамото"
+        },
+        "description": "Классический воротник, застежка на пуговицах спереди, нагрудный карман, удлиненная модель, прошитые панели, длинные рукава и манжеты на пуговицах.",
+        "model": {
+            "height": "1.88",
+            "size": "2"
+        },
+        "details": [
+            "Yohji Yamamoto широкие укороченные брюки",
+            "Converse кроссовки 'One Star'"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "available": false
+            },
+            {
+                "size": "M",
+                "available": true
+            },
+            {
+                "size": "L",
+                "available": true
+            }
+        ],
+        "popular": true
+    },
+    {
+        "id": 4,
+        "name": "Рубашка с принтом",
+        "picture": "item2.png",
+        "category": "рубашки",
+        "price": {
+            "currency": "$",
+            "sum": "170"
+        },
+        "available": 2,
+        "color": "Черный",
+        "material": "Шерсть 100%",
+        "care": "Сухая чистка",
+        "code": "HHB73100",
+        "brand": {
+            "en": "Yohji Yamamoto",
+            "ua": "Йоджи Ямамото"
+        },
+        "description": "Классический воротник, застежка на пуговицах спереди, нагрудный карман, удлиненная модель, прошитые панели, длинные рукава и манжеты на пуговицах.",
+        "model": {
+            "height": "1.88",
+            "size": "2"
+        },
+        "details": [
+            "Yohji Yamamoto широкие укороченные брюки",
+            "Converse кроссовки 'One Star'"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "available": false
+            },
+            {
+                "size": "M",
+                "available": true
+            },
+            {
+                "size": "L",
+                "available": true
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Кроссовки «Kaiwa» Y3",
+        "picture": "item3.png",
+        "category": "oбувь",
+        "price": {
+            "currency": "$",
+            "sum": "320"
+        },
+        "available": 2,
+        "color": "Черный",
+        "material": "Шерсть 100%",
+        "care": "Сухая чистка",
+        "code": "HHB73100",
+        "brand": {
+            "en": "Yohji Yamamoto",
+            "ua": "Йоджи Ямамото"
+        },
+        "description": "Классический воротник, застежка на пуговицах спереди, нагрудный карман, удлиненная модель, прошитые панели, длинные рукава и манжеты на пуговицах.",
+        "model": {
+            "height": "1.88",
+            "size": "2"
+        },
+        "details": [
+            "Yohji Yamamoto широкие укороченные брюки",
+            "Converse кроссовки 'One Star'"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "available": false
+            },
+            {
+                "size": "M",
+                "available": true
+            },
+            {
+                "size": "L",
+                "available": true
+            }
+        ]
+    }
+]
